@@ -2,6 +2,17 @@
 
 > A dated engineering journal for the Theseus platform: what I did, problems I faced, what I changed, what I tested, progress checks. Newest entries on top.
 
+### 2026-08-18 - Assembly 15.42% done
+
+Current assembly manual page: p. 38 out of 240 pages (37/240 completed).  
+Attached all parts onto the base.  
+This joint uses cyloidal gearbox.  
+<img src="images/2026-08-18-y-and-base-back-view.jpeg" alt="Cycloidal joint" width="170">
+<img src="images/2026-08-18-y-and-base-side-view.jpeg" alt="Y layer and base" width="170">  
+*Y layer almost done*
+
+---
+
 ### 2026-07-10 - Assembly 
 
 Total assembly manual pages completed: 19 pages  
